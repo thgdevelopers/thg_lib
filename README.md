@@ -26,6 +26,8 @@ Most of the functionality of thg_lib is self-contained and Python-only.  You sho
 | os-arch  |      command  | 
 |----------|:-------------:|
 | arch     | pacman -S python3 python-pip  git  base-deve |
+| * |python3 -m pip install --upgrade pip
+| * |python3 -m pip install --upgrade git+https://github.com/thgdevelopers/thg_lib
 
 # debian-base install
 | os-debian  |      command  | 
@@ -52,3 +54,5 @@ If you have any questions not worthy of a [bug report](https://github.com/thgdev
 | darkcode | telegram| darkcode0x000
 | * |        whatsapp|+55061983858671|
 | * |
+
+# Power By: Darkcode0x00 Enterprise &copy;&reg;&trade; 
